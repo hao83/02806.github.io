@@ -1,0 +1,25 @@
+.DS_Store
+/Police_Department_Incident_Reports__Historical_2003_to_May_2018.csv
+.ipynb_checkpoints/Assignment 1-checkpoint.ipynb
+
+final project/.ipynb_checkpoints/covid-19 data anlysis-checkpoint.ipynb
+
+final project/.ipynb_checkpoints/Explainer notebook-checkpoint.ipynb
+
+final project/Dow Jones Industrial Average Historical Data_US.csv
+
+final project/OMX Copenhagen 20 Historical Data_Denmark.csv
+
+final project/S&P_TSX Composite Historical Data_Canada.csv
+
+final project/Shanghai Composite Historical Data_China.csv
+
+final project/South-Africa-Top-40-Historical-Data_South-Africa.csv
+
+*.csv
+
+final project/pyecharts_snapshot-0.2.0-py2.py3-none-any.whl
+
+final project/.ipynb_checkpoints/Company stock performance-checkpoint.ipynb
+
+final project/.ipynb_checkpoints/Explainer notebook1-checkpoint.ipynb
