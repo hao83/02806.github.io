@@ -29,7 +29,7 @@ In our investigation, we sought to examine the potential relationship between do
     frameborder="0">
 </iframe>
 
-In our study, we aimed to explore the potential influence of gender and neutering status on dog bite behavior.
+We aimed to explore the potential influence of gender and neutering status on dog bite behavior.
 The interactive pie chart indicated that unneutered males exhibited a significantly higher level of aggressiveness.
 
 <iframe src="fig/gender.html"
