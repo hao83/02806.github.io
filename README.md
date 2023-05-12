@@ -9,8 +9,8 @@ which contents dog bite incidents from 2015 to 2021. The data is collected from 
 
 <iframe src="fig/pitbull.png"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
-    height="500"
+    width="600"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
