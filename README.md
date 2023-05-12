@@ -63,4 +63,15 @@ pit bull and rottweiler have much more possiblities to bite human.
     frameborder="0">
 </iframe>
 
+We also observed that the results regarding gender and age showed little variation. From our comparative analysis, it is evident that younger male dogs have a higher propensity for attacking humans.
+
+<iframe src="fig/gender_age.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="600"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 ### Details can be found [here](https://nbviewer.org/github/hao83/02806.github.io/blob/main/social_data_final.ipynb)
