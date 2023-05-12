@@ -2,3 +2,18 @@
 
 The increasing popularity of dog ownership in tandem with emerging conflicts poses a noteworthy concern in contemporary society. For instance, within our group, one member is a dog owner while another exhibits an intense fear of dogs. The fear of dog bites predominantly drives individuals' apprehension towards dogs, thus sparking our interest in exploring the factors influencing canine aggression towards humans. This study aims to delve into the multifaceted aspects surrounding this issue and shed light on the underlying factors contributing to dog bites.
  
+Driving by the interest, we found a dataset namned [DOHMH Dog Bite Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data)
+which contents dog bite incidents from 2015 to 2021. The data is collected from reports received online, mail, fax or by phone to 311 or NYC DOHMH Animal Bite Unit. The information of date and loccation of the incident, dog breeds, gender, age, and neutering status are included in this dataset.
+
+## The unneutered male pit bull tends to exhibit a higher incidence of dog-inflicted injuries on humans.
+
+In our study, we aimed to investigate whether certain dog breeds exhibit higher aggression towards humans. We analyzed the DOHMH Dog Bite Data to examine the frequency of bite incidents categorized by breed. Interestingly, upon excluding dogs of uncertain breed types, we observed that approximately half of the reported bite incidents were attributed to pit bulls.
+
+<iframe src="fig/breed_pie_chart.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="1000"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
