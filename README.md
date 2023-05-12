@@ -7,6 +7,15 @@ which contents dog bite incidents from 2015 to 2021. The data is collected from 
 
 ## The unneutered male pit bull tends to exhibit a higher incidence of dog-inflicted injuries on humans.
 
+<iframe src="fig/pitbull.png"
+    sandbox="allow-same-origin allow-scripts"
+    width="800"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 In our study, we aimed to investigate whether certain dog breeds exhibit higher aggression towards humans. We analyzed the DOHMH Dog Bite Data to examine the frequency of bite incidents categorized by breed. Interestingly, upon excluding dogs of uncertain breed types, we observed that approximately half of the reported bite incidents were attributed to pit bulls.
 
 <iframe src="fig/breed_pie_chart.html"
