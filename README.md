@@ -44,7 +44,7 @@ The interactive pie chart indicated that unneutered males exhibited a significan
     frameborder="0">
 </iframe>
 
-All the evidence suggests that unneutered male pit bulls pose a significant risk and should be approached with caution. HoIver, it is important to acknowledge that the conclusions drawn from the data, which solely includes information on dog bite incidents involving humans, may not provide a comprehensive and convincing representation.
+All available evidence consistently points towards a noteworthy risk associated with unneutered male pit bulls, indicating the need for cautious interaction with this particular group of dogs. However, it is essential to acknowledge that the conclusions derived from the data, which exclusively focuses on dog bite incidents involving humans, may not present a comprehensive and fully persuasive representation of the overall behavior and characteristics of pit bulls.
 
 ## Incorporated the NYC Dog Licensing Dataset to delve deeper 
 
