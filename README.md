@@ -64,8 +64,7 @@ pit bull and rottIiler have much more possiblities to bite human.
     frameborder="0">
 </iframe>
 
-I also observed that the results regarding gender and age shoId little variation. From my comparative analysis, it is evident that younger male dogs have a higher propensity for attacking humans.
-
+Through the combined analysis of two datasets, it was observed that dog aggression tends to decrease with age and that male dogs exhibit stronger aggression, confirming previous findings. Furthermore, other interesting discoveries were made. It was found that, not only in the overall population but also within each age group, male dogs displayed relatively stronger aggression compared to female dogs. Additionally, it was observed that aggression in dogs, regardless of gender, tends to decrease with advancing age, with this trend being particularly prominent in dogs over ten years old.
 <iframe src="fig/gender_age.html"
     sandbox="allow-same-origin allow-scripts"
     width="600"
