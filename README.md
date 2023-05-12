@@ -17,3 +17,14 @@ In our study, we aimed to investigate whether certain dog breeds exhibit higher 
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+In our investigation, we sought to examine the potential relationship between dog bite behavior and the age of dogs. We created a line graph based on the age data and observed a clear trend. Specifically, as the age of dogs surpasses 2 years, there is a gradual decrease in the occurrence of dog bites.
+
+<iframe src="fig/figure3.png"
+    sandbox="allow-same-origin allow-scripts"
+    width="1000"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
