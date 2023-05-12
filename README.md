@@ -16,6 +16,8 @@ which contents dog bite incidents from 2015 to 2021. The data is collected from 
     frameborder="0">
 </iframe>
 
+![test](https://github.com/hao83/02806.github.io/blob/main/fig/pitbull.png)
+
 In our study, we aimed to investigate whether certain dog breeds exhibit higher aggression towards humans. We analyzed the DOHMH Dog Bite Data to examine the frequency of bite incidents categorized by breed. Interestingly, upon excluding dogs of uncertain breed types, we observed that approximately half of the reported bite incidents were attributed to pit bulls.
 
 <iframe src="fig/breed_pie_chart.html"
