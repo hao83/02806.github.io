@@ -69,3 +69,5 @@ pit bull and rottweiler have much more possiblities to bite human.
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+### Details can be found [here](https://nbviewer.org/github/hao83/02806.github.io/blob/main/social_data_final.ipynb)
