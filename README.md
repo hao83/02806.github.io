@@ -1,7 +1,6 @@
 # Factors for Pet Dog Aggression towards Humans
 
-Details can be found [here](https://nbviewer.org/github/hao83/02806.github.io/blob/main/social_data_final.ipynb) or [here](https://deepnote.com/workspace/zihao-8a3ff154-acfe-4608-90b7-04bb6a3c515f/project/Untitled-project-5595bad0-14f9-497d-981a-11facc220b3b/notebook/social_data_final-b7f5cb1551a046a29e6e9d4cca945e8b)
-
+*Details can be found [here](https://nbviewer.org/github/hao83/02806.github.io/blob/main/social_data_final.ipynb) or [here](https://deepnote.com/workspace/zihao-8a3ff154-acfe-4608-90b7-04bb6a3c515f/project/Untitled-project-5595bad0-14f9-497d-981a-11facc220b3b/notebook/social_data_final-b7f5cb1551a046a29e6e9d4cca945e8b)*
 The rising prevalence of dog ownership and the concurrent rise in conflicts related to dogs present a significant concern in modern society. For instance, while some individuals have a fondness for dogs as pets, others exhibit an intense fear of dogs. The fear of dog bites primarily drives people's apprehension towards dogs, leading to my research interest in investigating the factors that contribute to canine aggression towards humans. This study aims to comprehensively examine the various aspects surrounding this issue and provide insights into the underlying factors that influence dog bites.
 
 Driving by the interest, I found a dataset namned [DOHMH Dog Bite Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data)
