@@ -11,7 +11,7 @@ In our study, we aimed to investigate whether certain dog breeds exhibit higher 
 
 <iframe src="fig/breed_pie_chart.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
+    width="600"
     height="500"
     scrolling="no"
     seamless="seamless"
@@ -34,7 +34,7 @@ The interactive pie chart indicated that unneutered males exhibited a significan
 
 <iframe src="fig/gender.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
+    width="600"
     height="500"
     scrolling="no"
     seamless="seamless"
@@ -54,7 +54,7 @@ pit bull and rottweiler have much more possiblities to bite human.
 
 <iframe src="fig/ratio_breed.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
+    width="600"
     height="500"
     scrolling="no"
     seamless="seamless"
