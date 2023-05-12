@@ -4,7 +4,7 @@
 
 The rising prevalence of dog ownership and the concurrent rise in conflicts related to dogs present a significant concern in modern society. For instance, while some individuals have a fondness for dogs as pets, others exhibit an intense fear of dogs. The fear of dog bites primarily drives people's apprehension towards dogs, leading to my research interest in investigating the factors that contribute to canine aggression towards humans. This study aims to comprehensively examine the various aspects surrounding this issue and provide insights into the underlying factors that influence dog bites.
 
-Driving by the interest, I found a dataset namned [DOHMH Dog Bite Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data)
+Driving by the interest, I found a dataset namned [DOHMH Dog Bite Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg)
 which contents dog bite incidents from 2015 to 2021. The data is collected from reports received online, mail, fax or by phone to 311 or NYC DOHMH Animal Bite Unit. The information of date and loccation of the incident, dog breeds, gender, age, and neutering status are included in this dataset.
 
 ## The unneutered male pit bull tends to exhibit a higher incidence of dog-inflicted injuries on humans.
