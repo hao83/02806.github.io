@@ -11,7 +11,7 @@ In our study, we aimed to investigate whether certain dog breeds exhibit higher 
 
 <iframe src="fig/breed_pie_chart.html"
     sandbox="allow-same-origin allow-scripts"
-    width="1000"
+    width="800"
     height="500"
     scrolling="no"
     seamless="seamless"
@@ -22,7 +22,19 @@ In our investigation, we sought to examine the potential relationship between do
 
 <iframe src="fig/figure3.png"
     sandbox="allow-same-origin allow-scripts"
-    width="1000"
+    width="800"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+In our study, we aimed to explore the potential influence of gender and neutering status on dog bite behavior.
+The interactive pie chart indicated that unneutered males exhibited a significantly higher level of aggressiveness.
+
+<iframe src="fig/gender.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="800"
     height="500"
     scrolling="no"
     seamless="seamless"
