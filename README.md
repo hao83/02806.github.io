@@ -52,8 +52,8 @@ To delve deeper into the matter, it should be noted that the previous data from 
 Therefore, a conclusive analysis cannot be made without considering the distribution ratios of specific factors among the entire population of pet dogs in New York City.
 To address this, I have incorporated the [NYC Dog Licensing Dataset](https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp) to examine the distribution of these factors that influence dog aggression within the broader population of pet dogs.
 
-By combining two datasets, the ratio of bites incidents according to the breed clearly shoId
-pit bull and rottIiler have much more possiblities to bite human.
+
+By merging two datasets, the analysis reveals a significant correlation between breed and dog bite incidents, specifically highlighting the higher likelihood of pit bulls and Rottweilers to engage in biting behavior towards humans.
 
 <iframe src="fig/ratio_breed.html"
     sandbox="allow-same-origin allow-scripts"
