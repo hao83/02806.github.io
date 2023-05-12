@@ -40,3 +40,23 @@ The interactive pie chart indicated that unneutered males exhibited a significan
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+All the evidence suggests that unneutered male pit bulls pose a significant risk and should be approached with caution. However, it is important to acknowledge that the conclusions drawn from the data, which solely includes information on dog bite incidents involving humans, may not provide a comprehensive and convincing representation.
+
+## Incorporated the NYC Dog Licensing Dataset to delve deeper 
+
+To delve deeper into the matter, it should be noted that the previous data from the DOHMH Dog Bite Dataset only reflects incidents involving dogs that have already bitten humans. 
+Therefore, a conclusive analysis cannot be made without considering the distribution ratios of specific factors among the entire population of pet dogs in New York City.
+To address this, we have incorporated the [NYC Dog Licensing Dataset](https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp) to examine the distribution of these factors that influence dog aggression within the broader population of pet dogs.
+
+By combining two datasets, the ratio of bites incidents according to the breed clearly showed
+pit bull and rottweiler have much more possiblities to bite human.
+
+<iframe src="fig/ratio_breed.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="800"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
