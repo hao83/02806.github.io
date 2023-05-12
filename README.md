@@ -90,4 +90,4 @@ I generated a heatmap to examine potential correlations betIen dog bite incident
 
 In summary, based on my analysis of the dataset, I conclude that aggressive behavior in pet dogs is highly correlated with the breed, gender, age, and neutering status of the dogs. I found that Pit bulls and RottIilers exhibit a higher level of aggression towards humans compared to other dog breeds. Additionally, male dogs are more prone to causing injuries than female dogs, and unneutered dogs display increased aggression. This suggests a strong association betIen aggressive behavior and the secretion of male hormones, where higher levels of male hormones indicate a greater propensity for aggressive behavior. Moreover, the aggressive behavior of pet dogs tends to decrease as they age, which I hypothesize is linked to long-term domestication by humans.
 
-### Details can be found [here](https://nbvieIr.org/github/hao83/02806.github.io/blob/main/social_data_final.ipynb)
+### Details can be found [here](https://nbviewer.org/github/hao83/02806.github.io/blob/main/social_data_final.ipynb)
